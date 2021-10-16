@@ -7,7 +7,6 @@ public class OrderRequest {
     private String customerName;
     private String address;
     private List<OrderItemRequest> items;
-//    private boolean deliveryAssigned;
     private String deliveryRider;
     private String cashier;
 
